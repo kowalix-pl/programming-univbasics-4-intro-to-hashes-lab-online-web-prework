@@ -24,7 +24,7 @@ end
 def my_hash_creator(key, value)
 # return a hash that includes the key and value parameters passed into this method
   my_hash_creator = Hash.new
-  my_hash_creator = {:name => "John", :age => "21",:address => "NY"}
+  my_hash_creator = {:name => "John"}
   
  puts 
  end
